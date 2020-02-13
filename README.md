@@ -17,4 +17,8 @@ What it's eventually going to be
 * Pretty icons
 * Each class has a fancy (simple) image based on their name, all unique, _something like the image at the bottom_.
 
-![Example image of class avatars] (https://i.imgur.com/cMXhB8h.png)
+
+
+
+
+Example image of class avatars: (https://i.imgur.com/cMXhB8h.png)
