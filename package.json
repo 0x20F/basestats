@@ -2,9 +2,9 @@
   "name": "basestats",
   "version": "1.0.0",
   "description": "Statistics about your codebase (only PHP for now)",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
