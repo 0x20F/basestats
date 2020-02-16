@@ -1,0 +1,22 @@
+{
+  "name": "basestats",
+  "version": "1.0.0",
+  "description": "Statistics about your codebase (only PHP for now)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirTheViking/basestats.git"
+  },
+  "author": "SirTheViking",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/SirTheViking/basestats/issues"
+  },
+  "homepage": "https://github.com/SirTheViking/basestats#readme",
+  "devDependencies": {
+    "electron": "^8.0.1"
+  }
+}
