@@ -2,7 +2,7 @@
 Statistics about your codebase (only PHP for now)
 
 What it's eventually going to be
-* Electron App
+* ~Electron~ Tauri App (Basically Electron but proper Rust and multi-threading support)
 * Search engine so you can search through all files in your codebase
 * Parser, so it'll parse your entire codebase and get stats about every file
   * how many times a function is used
