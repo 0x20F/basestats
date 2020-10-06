@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/SirTheViking/basestats#readme",
   "devDependencies": {
-    "electron": "^8.2.4"
+    "electron": "^8.5.1"
   }
 }
